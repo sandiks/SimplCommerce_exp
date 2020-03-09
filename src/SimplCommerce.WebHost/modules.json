@@ -1,0 +1,37 @@
+[
+  {
+    "id": "SimplCommerce.Module.Catalog",
+    "isBundledWithHost": true,
+    "version": "1.0.0"
+  },
+  {
+    "id": "SimplCommerce.Module.Cms",
+    "isBundledWithHost": true,
+    "version": "1.0.0"
+  },
+  {
+    "id": "SimplCommerce.Module.Core",
+    "isBundledWithHost": true,
+    "version": "1.0.0"
+  },
+  {
+    "id": "SimplCommerce.Module.Inventory",
+    "isBundledWithHost": true,
+    "version": "1.0.0"
+  },
+  {
+    "id": "SimplCommerce.Module.Localization",
+    "isBundledWithHost": true,
+    "version": "1.0.0"
+  },
+  {
+    "id": "SimplCommerce.Module.Search",
+    "isBundledWithHost": true,
+    "version": "1.0.0"
+  },
+  {
+    "id": "SimplCommerce.Module.Tax",
+    "isBundledWithHost": true,
+    "version": "1.0.0"
+  }
+]
